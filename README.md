@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @zemanue
-## 👨‍🏫 I'm currently a Primary School Teacher in his first steps in development. 
-At the moment I'm focused on learning everything I can in programming, making code as clear as possible with comments in spanish (teacher issues I guess...)
+## 👨‍🏫 I’m currently a Primary School Teacher in my first steps in development.
+At the moment, I’m focused on learning everything I can about programming, making code as clear as possible with comments in Spanish (teacher issues, I guess…)
 - 🧑‍🎓 Studing DAM (Multi-platform Application Development) at DigitechFP.
 - 🌱 I’m currently learning Java, SQL, HTML and CSS... 
 - 💞️ I’m looking to collaborate on: personal projects that challenge me to find possible solutions and learn more in the process :)
