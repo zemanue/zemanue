@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
@@ -72,7 +71,7 @@ This year, I plan to learn:
 - [**Restaurant Simulation**](https://github.com/zemanue/Restaurante)
  *A Java-based project simulating a day in a restaurant's life, including customer arrivals, table management, and satisfaction tracking. Personally created.*
 - [**Java Programming Digitech**](https://github.com/zemanue/Programacion-Java-DIGITECH)
- *Project with lots of different Java exercises done in the course Java Programming, 1st year of Multiplatform Application Development Degree at Digitech*
+ *Project with lots of different Java exercises done in the course Java Programming, 1st year of Multiplatform Application Development Degree at Digitech.*
 
 ---
 
