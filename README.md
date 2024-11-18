@@ -45,17 +45,17 @@
 ### Learning Path 📚
 
 This year, I plan to learn:
-- 📱 **Android Studio**: Diving into mobile app development, and possibly Kotlin
-- 🎨 **GUI Design**: Creating graphical user interfaces
-- 🗄️ **Database Access**: Using Java to interact with databases
-- ⚙️ **Multithreading and Multiprocessing**: Working with multiple threads and processes to improve performance
+- 📱 **Android Studio**: Diving into mobile app development, and possibly learning about Kotlin.
+- 🎨 **GUI Design**: Creating graphical user interfaces using JavaScript.
+- 🗄️ **Database Access**: Using Java to interact with databases.
+- ⚙️ **Multithreading and Multiprocessing**: Working with multiple threads and processes to improve performance.
 
 ---
 
 ### My Goals 🔭
 
 - 🏆 **Short-term:** Continue mastering **Java** while learning new technologies, frameworks and developing small projects to test what I learn.
-- 🔜 **Next goals:** Learn **Python** and **Kotlin** and dive deeper into web development and backend technologies.
+- 🔜 **Next goals:** Learn **Python**, **JavaScript** and **Kotlin** and dive deeper into web development and backend technologies.
 - 💞️ **Looking to collaborate on:** Personal projects that challenge me to find solutions and grow :)
 
 ---
