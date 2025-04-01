@@ -31,17 +31,20 @@
 
 ---
 
-### What I Master in Java 🚀
+### What I Master in Java and JavaScript 🚀
 
 - **OOP concepts**:  
   - Access control, getters and setters.
   - Polymorphism and inheritance.
   - Static, final, and abstract classes/methods.
   - Interfaces and implementations.
-  - **Data structures**: Proficient with `List`, `Set`, `Queue`, and `Map`.
-  - **Exception handling**: Crafting and managing custom exceptions.
-  - **File handling**: Reading and writing external files.
-  - **Database Access**: CRUD operations using JDBC and Hibernate.
+- **Data structures**: Proficient with `List`, `Set`, `Queue`, and `Map`.
+- **Exception handling**: Crafting and managing custom exceptions.
+- **File handling**: Reading and writing external files.
+- **Database Access**: CRUD operations using JDBC and Hibernate.
+- **Android Studio**: `Activity`, `Layout` and `View` management.
+- **DOM Access and Manipulation**: using JS to create and moddify elements of web pages.
+- **AJAX Requests**: connecting asynchronously with XML and JSON files.
 
 ---
 
