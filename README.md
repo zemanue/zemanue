@@ -20,7 +20,7 @@
 I'm a **Primary Education graduate with a Master's degree**, with over **9 years of teaching experience**, who has recently completed a **Higher Vocational Degree in Multiplatform Application Development (DAM)**.
 I am currently **focused on building new full stack projects**, combining **education + technology** in meaningful digital products, while **continuously learning** and applying **modern backend and frontend** technologies.
 
-### 📓 Check my Dev Portfolio[https://zemanue.github.io/my-dev-portfolio/]
+### 📓 [Check my Dev Portfolio](https://zemanue.github.io/my-dev-portfolio/)
 
 ---
 
@@ -62,10 +62,6 @@ I am currently **focused on building new full stack projects**, combining **educ
 
 - 📧 Email: [manureco.97@gmail.com](mailto:manureco.97@gmail.com)
 - 💼 LinkedIn: https://linkedin.com/in/jose-manuel-redondo-conde
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zemanue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 zemanue/zemanue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
